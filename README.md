@@ -2,7 +2,9 @@
 
 This is a repository for a project on the effects of subhalo anisotropy.
 
+
 There are three effects I want to investigate:
-1.) intrahalo subhalo anisotropy
-2.) interhalo subhalo anisotropy
+
+* intrahalo subhalo anisotropy, i.e. anisotropic distribution of $\theta$ and $\phi$
+* interhalo subhalo anisotropy, i.e. alignments between host haloes
 
